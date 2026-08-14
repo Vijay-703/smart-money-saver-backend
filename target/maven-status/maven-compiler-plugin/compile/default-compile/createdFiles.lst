@@ -1,0 +1,8 @@
+com\moneysaver\Transaction.class
+com\moneysaver\PersonalMoneySaverBackendApplication.class
+com\moneysaver\TransactionRepository.class
+com\moneysaver\SavingsGoal.class
+com\moneysaver\PersonalMoneySaverBackendApplication$WebConfig.class
+com\moneysaver\SavingsGoalController.class
+com\moneysaver\SavingsGoalRepository.class
+com\moneysaver\TransactionController.class
